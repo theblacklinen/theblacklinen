@@ -31,3 +31,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theblacklinen&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<h2>🎧 Now Vibing On 🎧</h2>
+
+<a href="https://open.spotify.com/user/31fluksoiwabj5x5h6inkeoljlhq"><img src="https://spotify-readme-silk-seven.vercel.app/api/spotify" alt="wrench's current Playing" width="90%" align="center" /></a>
+
