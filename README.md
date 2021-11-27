@@ -22,8 +22,9 @@
 
 ## Connect with me:
 <p align="left">
-
-<a href = "https://www.instagram.com/tarun_chauhan_653/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    
+<a href ="https://open.spotify.com/user/31fluksoiwabj5x5h6inkeoljlhq"><img src="https://img.icons8.com/fluency/48/000000/spotify.png"/> </a>
+<a href ="https://www.instagram.com/tarun_chauhan_653/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theblacklinen&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
